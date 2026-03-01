@@ -23,7 +23,8 @@ model optimized for reporting and business intelligence.
 -   🥈 Silver Layer -- Data cleansing & standardization\
 -   🥇 Gold Layer -- Business-ready Star Schema
 
-docs/DWH Architecture.png
+<img width="1282" height="789" alt="DWH Architecture" src="https://github.com/user-attachments/assets/c452eb58-b1bd-4752-b1c8-03fb8d58f035" />
+
 
 
 ------------------------------------------------------------------------
@@ -57,7 +58,8 @@ Customer demographic and identification attributes.
 
 Product classification and cost attributes.
 
-> 📷 Place star schema image inside `docs/data_model.png`
+> <img width="1450" height="841" alt="data_model" src="https://github.com/user-attachments/assets/f6ab4087-3dcd-476f-aa4d-eac9a0a5c3f7" />
+
 
 ------------------------------------------------------------------------
 
