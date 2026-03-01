@@ -23,7 +23,7 @@ model optimized for reporting and business intelligence.
 -   🥈 Silver Layer -- Data cleansing & standardization\
 -   🥇 Gold Layer -- Business-ready Star Schema
 
-> <img width="1282" height="789" alt="DWH Architecture" src="https://github.com/user-attachments/assets/914a414e-963c-429e-b46b-cf3cfacfffc7" />
+docs/DWH Architecture.png
 
 
 ------------------------------------------------------------------------
